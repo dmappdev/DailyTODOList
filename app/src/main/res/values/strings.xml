@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Daily TODO</string>
+    <string name="ch_box_isdone_text">done</string>
+</resources>
